@@ -1,0 +1,8 @@
+/* Style sheet for exercise 1 */
+div {
+    background-color: red;
+    color: white;
+    font-size: 32pt;
+    text-align: center;
+    font-weight: bold;
+}
